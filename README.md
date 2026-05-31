@@ -118,6 +118,6 @@ existing public technical resource.
 - Any grid-based simulation
 
 ---
-
+© 2026 AbidiHichem-TunisianCoder. Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
 *Licensed under CC BY 4.0 — free to use with attribution 
 to AbidiHichem-TunisianCoder*
