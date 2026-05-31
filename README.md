@@ -116,4 +116,4 @@ standard solution. This formula has no known prior publication.
 
 ---
 
-© 2025 AbidiHichem-TunisianCoder. Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+© 2026 AbidiHichem-TunisianCoder. Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
