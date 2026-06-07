@@ -86,7 +86,7 @@ Pure ALU computation across all parallel threads.
 
 ## Origin
 
-This formula was discovered in 2025 while coding a Pacman
+This formula was discovered in 2026 while coding a Pacman
 pathfinding implementation in Scratch.
 
 The constraint was personal: a refusal to use branching code
